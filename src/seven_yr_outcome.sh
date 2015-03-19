@@ -1,9 +1,6 @@
-
-# This tutorial assumes that you have some basic knowledge of working with Linux command-line interface including basic file and folder manipulation operations. It also assumes that you have knowledge of installing packages and compiling source code on Linux as well as setting environment variables for each of the programs used. Furthermore, if you want, you can copy this entire tutorial, paste it in a file and save it as a shell script. You can run the entire steps automatically by simply invoking the shell script. 
-
+# This tutorial assumes that you have some basic knowledge of working with Linux command-line interface including basic file and folder manipulation operations. It also assumes that you have knowledge of installing packages and compiling source code on Linux as well as setting environment variables for each of the programs used. 
 
 # To proceed ahead with this tutorial, you will need to have the following 5 programs installed/available on a server running Ubuntu 12.04. All analyses will take place via command-line and unfortunately, there is no GUI option available. The URLs provided in front of each program give more description and instructions on downloading/compiling them. 
-
 
 # QIIME 1.8.0: https://github.com/qiime/qiime-deploy 
 # FLASH v1.2.7: http://ccb.jhu.edu/software/FLASH/
