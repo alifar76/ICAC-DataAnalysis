@@ -27,6 +27,7 @@ cd /media/URECA_Data/7_yr_outcome/tutorial/
 # The raw data produced from Illumina's NextSeq DNA sequencer is present in the directory called "150129_NS500170_0018_AH2HGYAFXX/"
 # Go into the directory:
 
+
 cd 150129_NS500170_0018_AH2HGYAFXX/
 
 
